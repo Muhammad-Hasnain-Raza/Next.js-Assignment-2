@@ -1,0 +1,19 @@
+.header {
+    background-color: #0e7e26;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    margin: 0;
+  }
+  
+  .navList {
+    list-style: none;
+    padding: 10px;
+    margin-left: 10px;
+    text-indent: 10px;
+    display: flex;
+    justify-content: center;
+  }
